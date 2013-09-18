@@ -1,4 +1,4 @@
-# Quick tool to merge two JSON files together
+# Quickly-built tool to merge two JSON files together
 # Used in MuteTab to get Manifest file how I want it with OpenForge.
 #
 # Usage: mergejson file1 file2 outfile
