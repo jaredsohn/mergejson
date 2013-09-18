@@ -1,8 +1,6 @@
 mergejson
 =========
 
-Merge together multiple json files 
-
 Quickly-built tool to merge two JSON files together
 
 Used in MuteTab to include features that don't seem to be supported by openforge into the manifest file.
